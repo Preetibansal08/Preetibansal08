@@ -30,7 +30,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Preeti Bansal" height="30" width="40" />
     </a>
     &nbsp;
-    <a href="https://auth.geeksforgeeks.org/user/bansalpreeti18" target="blank">
+    <a href="https://www.geeksforgeeks.org/user/bansalprw3c9/" target="blank">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="Preeti Bansal GFG" height="30"       width="40" />
     </a>
 </p>
