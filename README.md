@@ -9,7 +9,7 @@
 <span style="color:#228B22;"><b>🤖 Built SensAI, an AI-powered Career Coach</b></span><br>
 <span style="color:#228B22;"><b>🔍 Learning DSA with C++, solving on LeetCode & GeeksForGeeks</b></span><br>
 <span style="color:#FF69B4;"><b>🧠 I am enthusiastic about Artificial Intelligence and Machine Learning.</b></span><br>
-<span style="color:#8B008B;"><b>🌱 Successfully contributed to 4 open-source projects during Hacktoberfest 2024/b></span><br>
+<span style="color:#8B008B;"><b>🌱 Successfully contributed to 4 open-source projects during Hacktoberfest 2024</span><br>
 <span style="color:#FFD700;"><b>How to reach me: <a href="mailto:bansalpreeti805@gmail.com">📫 bansalpreeti805@gmail.com</a></b></span>
 <br><br> <!-- Extra line break for spacing -->
 
