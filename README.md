@@ -18,22 +18,6 @@
 
 [![An image of @preetibansal08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/preetibansal08)](https://www.holopin.io/@preetibansal08)
 <br><br> <!-- Extra line breaks for spacing -->
-
-<!-- Connect with Me Section -->
-<h1 align="Center">Connect with me :</h1>
-<p align="Center">
-    <a href="https://www.linkedin.com/in/bansalpreeti" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Preeti Bansal" height="30" width="40" />
-    </a>
-  &nbsp;
-    <a href="https://leetcode.com/u/bansalpreeti18/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Preeti Bansal" height="30" width="40" />
-    </a>
-    &nbsp;
-    <a href="https://www.geeksforgeeks.org/user/bansalprw3c9/" target="blank">
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="Preeti Bansal GFG" height="30"       width="40" />
-    </a>
-</p>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
 
 <!-- Tech Stack Section -->
